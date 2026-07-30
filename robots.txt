@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uishihua.github.io/yingtaoshiaa/sitemap.xml
